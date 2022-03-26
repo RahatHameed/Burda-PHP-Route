@@ -1,0 +1,6 @@
+._*
+# phpunit files
+.phpunit.cache
+# Compser files
+/vendor/
+
